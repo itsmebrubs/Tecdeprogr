@@ -1,0 +1,1 @@
+alert ('Bom dia Brasil, Boa tarde Italia');
