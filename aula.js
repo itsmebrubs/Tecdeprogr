@@ -1,1 +1,1 @@
-alert ('Bom dia Brasil, Boa tarde Italia');
+console.log("Projeto Node");

@@ -1,0 +1,25 @@
+{
+  "name": "tecdeprogr",
+  "version": "1.0.0",
+  "description": "Material das aulas de Tecnicas de Programação\r # Nome: Bruna Oliveira Rocha \r # RGM: 26462451 \r # Semestre: 3K",
+  "main": "aula.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsmebrubs/Tecdeprogr.git"
+  },
+  "author": "Bruna Rocha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsmebrubs/Tecdeprogr/issues"
+  },
+  "homepage": "https://github.com/itsmebrubs/Tecdeprogr#readme",
+  "keywords": [
+    "aua",
+    "node",
+    "npm",
+    "faculdade"
+  ]
+}
